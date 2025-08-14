@@ -1,0 +1,5 @@
+department,avg_work_hours,avg_productivity_score,late_logins_count,absentees_count,total_tasks_completed
+HR,5.33,0.04,0,1,2
+IT,4.25,0.05,0,4,6
+Finance,4.8,0.03,0,2,1
+Marketing,7.96,0.06,0,0,2
