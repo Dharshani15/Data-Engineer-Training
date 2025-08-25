@@ -1,0 +1,8 @@
+order_id,customer_name,region,revenue,cost
+101,John Doe,North,120000,80000
+102,Jane Smith,,95000,60000
+103,Bob Lee,East,,30000
+104,Alice Wong,West,40000,25000
+105,Jane Smith,,95000,60000   # duplicate of order_id 102
+106,Sam Patel,South,30000,15000
+107,Emily Davis,,0,10000
